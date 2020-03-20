@@ -15,6 +15,23 @@ Using the [repository](https://github.com/tessaeagle/download-tweets-ai-text-gen
   * Analyzed tweets for sentiment
   * Trained a recurrent neural network (RNN) classifier with 800,000 labeled tweets
   * Used this model to separate positive and negative tweets
+  
+### Output
+| Tweet        | Sentiment           | Classification  |
+| ------------- |:-------------:| -----:|
+| feelin’ very happy and very grateful.. ily guys 🥺❤️    | positive| good |
+| my notifications tab is filled with dog wif hat icons, and i’m not complaining ☺️ | positive| good |
+| total of 13,500 trees planted today, thanks to chat 😄💝🌲    | positive| good |
+| feelin’ comfy ❤️   | positive| good |
+| life hack: be nice to others    | positive| good |
+| social media is exhausting    | positive| bad |
+| lesson learned - i’ll get his @ for you guys next time 😌   | positive| bad |
+| be careful what you believe on the internet 👀  | positive| bad |
+| all of my bras, undies, and socks were “lost” in the move wtf | negative| good |
+| may or may not have blocked someone i played with.. ▶️   | negative| good |
+| broke up with my last boyfriend because he wouldn’t stop counting..i wonder what he’s up to now 😔💔 | negative| good |
+| u look so kawaii!! o(>ω<)o | negative| bad |
+| I have so much to be thankful for, and the majority of it only exists because of your support | negative| bad |
 
 ## Generating Tweets
 Using a GPT-2 Model we:
