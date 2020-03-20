@@ -2,6 +2,8 @@
 ## Project Overview
 Problem: Can we train a GPT-2 model to learn gamer slang (gamer girls) and create a twitter bot with it. Can GPT-2 models be able to parse out the nuances of cultural differences, and not just racial bias
 
+See a video overview of the project [here](https://www.youtube.com/watch?v=g4d9X99ElWY&feature=youtu.be)
+
 ### Goals
 1. Sentiment Analysis - Download and analyze sentiment expression in tweets by popular gamers and within popular gaming hashtags
 Analyze for valence
