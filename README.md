@@ -33,4 +33,5 @@ Using [Tracery](https://www.tracery.io/), we were able to create a [bot]https://
   * Two types: human created (by us) and GPT-2 generated
   
 ![alt text](https://github.com/tessaeagle/202FinalProject/blob/master/TwitterPage.png "Twitter")
+![alt-text](https://github.com/tessaeagle/202FinalProject/blob/master/Tracery.png "Tracery")
 
