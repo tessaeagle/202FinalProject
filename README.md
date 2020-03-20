@@ -45,7 +45,7 @@ Using a GPT-2 Model we:
   * Generated a .txt file of 1000 tweets at a time
 
 ## Creating a Twitterbot
-Using [Tracery](https://www.tracery.io/), we were able to create a [bot]https://twitter.com/Magikarmen) to tweet out our generated tweets
+Using [Tracery](https://www.tracery.io/), we were able to create a [bot](https://twitter.com/Magikarmen) to tweet out our generated tweets
   * Created “bot” Twitter Account
   * Set to tweet every 6 hours
   * Created set of rules to generate game-related Tweets
