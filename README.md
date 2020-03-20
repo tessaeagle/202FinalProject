@@ -1,5 +1,5 @@
 # 202FinalProject
-## Project Goal
+## Project Overview
 Problem: Can we train a GPT-2 model to learn gamer slang (gamer girls) and create a twitter bot with it. Can GPT-2 models be able to parse out the nuances of cultural differences, and not just racial bias
 
 ### Goals
